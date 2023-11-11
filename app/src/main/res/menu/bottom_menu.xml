@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/store"
+        android:title="Store"
+        android:icon="@drawable/ic_store2"/>
+
+    <item
+        android:id="@+id/add"
+        android:title=""
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/myAccount"
+        android:title="My Account"
+        android:icon="@drawable/ic_perfil"/>
+
+    <item
+        android:id="@+id/sair"
+        android:title="Logout"
+        android:icon="@drawable/ic_exit"/>
+
+</menu>
